@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example Open Course on </title>
-    <link>https://example.org/course/example-1/</link>
+    <link>https://yuros.org/course/example-1/</link>
     <description>Recent content in Example Open Course on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/course/example-1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yuros.org/course/example-1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assigment 3</title>
-      <link>https://example.org/course/example-1/tasking-01/</link>
+      <link>https://yuros.org/course/example-1/tasking-01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/course/example-1/tasking-01/</guid>
+      <guid>https://yuros.org/course/example-1/tasking-01/</guid>
       <description></description>
     </item>
     <item>
       <title>Module 1 - Youtube</title>
-      <link>https://example.org/course/example-1/module-01/</link>
+      <link>https://yuros.org/course/example-1/module-01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/course/example-1/module-01/</guid>
+      <guid>https://yuros.org/course/example-1/module-01/</guid>
       <description></description>
     </item>
     <item>
       <title>Module 2</title>
-      <link>https://example.org/course/example-1/module-02/</link>
+      <link>https://yuros.org/course/example-1/module-02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/course/example-1/module-02/</guid>
+      <guid>https://yuros.org/course/example-1/module-02/</guid>
       <description></description>
     </item>
     <item>
       <title>Module 4</title>
-      <link>https://example.org/course/example-1/tasking-02/</link>
+      <link>https://yuros.org/course/example-1/tasking-02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/course/example-1/tasking-02/</guid>
+      <guid>https://yuros.org/course/example-1/tasking-02/</guid>
       <description></description>
     </item>
   </channel>

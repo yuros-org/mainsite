@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuros on </title>
-    <link>https://example.org/profile/groups/yuros/</link>
+    <link>https://yuros.org/profile/groups/yuros/</link>
     <description>Recent content in Yuros on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/profile/groups/yuros/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yuros.org/profile/groups/yuros/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,2 +1,0 @@
-# mainsite
-yuros main website

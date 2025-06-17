@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.org/course/example-1/tasking-01/</loc>
+  </url><url>
+    <loc>https://example.org/course/example-1/module-01/</loc>
+  </url><url>
+    <loc>https://example.org/course/example-1/module-02/</loc>
+  </url><url>
+    <loc>https://example.org/course/example-1/tasking-02/</loc>
+  </url><url>
     <loc>https://example.org/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
@@ -10,6 +18,8 @@
     <loc>https://example.org/categories/</loc>
   </url><url>
     <loc>https://example.org/course/</loc>
+  </url><url>
+    <loc>https://example.org/course/example-1/</loc>
   </url><url>
     <loc>https://example.org/profile/person/john-wick/</loc>
   </url><url>

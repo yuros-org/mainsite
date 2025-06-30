@@ -1,0 +1,1 @@
+(()=>{console.log("slide footer script loaded");var l=()=>{let e=document.getElementById("slide-opening"),t=document.getElementById("slide-players"),d=document.getElementById("slide-iframes");e.addEventListener("click",()=>{e.classList.add("hide"),d.src=t.getAttribute("data-uri")})};l(),console.log("deffers page course javascript engine loaded");})();

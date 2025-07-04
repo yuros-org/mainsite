@@ -1,1 +1,1 @@
-(()=>{console.log("deffer moscow theme default engine loaded"),console.log("Script : critical fallback replacement");})();
+(()=>{console.log("Format : none | shift : deffered | scope : hero | source : default | type : script | status : loaded"),console.log("Parted : main | shift : deffered | scope : foot | source : default | type : script | status : loaded"),console.log(" Script : deffers based script loaded");})();

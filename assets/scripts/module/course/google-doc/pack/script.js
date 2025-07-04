@@ -1,0 +1,1 @@
+(()=>{console.log("Format library pack script loaded"),console.log("Parted : main | shift : deffered | scope : foot | source : default | type : script | status : loaded"),console.log(" Script : deffers based script loaded"),console.log("deffers page course javascript engine loaded");})();

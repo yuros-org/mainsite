@@ -71,69 +71,6 @@
       <description></description>
     </item>
     <item>
-      <title>Module Example - Article</title>
-      <link>https://yuros.org/course/example-1/article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuros.org/course/example-1/article/</guid>
-      <description>&lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2&#34;&gt;H2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3&#34;&gt;H3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4&#34;&gt;H4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5&#34;&gt;H5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6&#34;&gt;H6&lt;/h6&gt;&#xA;&lt;p&gt;Alternatively, for H1 and H2, an underline-ish style:&lt;/p&gt;&#xA;&lt;h1 id=&#34;alt-h1&#34;&gt;Alt-H1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;alt-h2&#34;&gt;Alt-H2&lt;/h2&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;First ordered list item&lt;/li&gt;&#xA;&lt;li&gt;Another item&#xA;⋅⋅* Unordered sub-list.&lt;/li&gt;&#xA;&lt;li&gt;Actual numbers don&amp;rsquo;t matter, just that it&amp;rsquo;s a number&#xA;⋅⋅1. Ordered sub-list&lt;/li&gt;&#xA;&lt;li&gt;And another item.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&amp;rsquo;ll use three here to also align the raw Markdown).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Module Example - Wave</title>
-      <link>https://yuros.org/course/example-1/wave/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuros.org/course/example-1/wave/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Module Example - Youtube</title>
-      <link>https://yuros.org/course/example-1/youtube/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuros.org/course/example-1/youtube/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Module Example- Google Doc</title>
-      <link>https://yuros.org/course/example-1/google-doc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuros.org/course/example-1/google-doc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Module Example- Google Form</title>
-      <link>https://yuros.org/course/example-1/google-form/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuros.org/course/example-1/google-form/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Module Example- Google Spreadsheet</title>
-      <link>https://yuros.org/course/example-1/google-sheet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuros.org/course/example-1/google-sheet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Module Example- Slide</title>
-      <link>https://yuros.org/course/example-1/slide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuros.org/course/example-1/slide/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Module Example- Undev Google Slide</title>
-      <link>https://yuros.org/course/example-1/google-slide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuros.org/course/example-1/google-slide/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Module Example- Xterm</title>
-      <link>https://yuros.org/course/example-1/xterm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuros.org/course/example-1/xterm/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Pengertian arsip digital</title>
       <link>https://yuros.org/course/perpustakaan-digital/session-09-part-01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -607,7 +544,7 @@
       <link>https://yuros.org/page/reporting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yuros.org/page/reporting/</guid>
-      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Property&lt;/th&gt;&#xA;          &lt;th&gt;Value&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Author&lt;/td&gt;&#xA;          &lt;td&gt;Al Muhdil Karim&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Publish&lt;/td&gt;&#xA;          &lt;td&gt;Jumat, 04 - July - 2025&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Format&lt;/td&gt;&#xA;          &lt;td&gt;Open Report&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Access&lt;/td&gt;&#xA;          &lt;td&gt;Not Indexing&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Status&lt;/td&gt;&#xA;          &lt;td&gt;Terbatas&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;informasi&#34;&gt;Informasi&lt;/h2&gt;&#xA;&lt;p&gt;Penyusunan laporan ini ditujukan sebagai bentuk pertanggungjawaban atas perkuliahan &lt;code&gt;Arsip dan Perpustakaan Digital&lt;/code&gt; pada &lt;code&gt;Angkatan 2023&lt;/code&gt; Jurusan &lt;code&gt;Ilmu Perpustakaan&lt;/code&gt; UIN Syarif Hidayatullah Jakarta. Maksud dari penulis untuk menyusun laporan ini adalah sebagai bahan pertimbangan pimpinan dalam pelaksanaan rapat evaluasi pada hari, &lt;code&gt;Jumat, 4 Juli 2024&lt;/code&gt;. Laporan ini disusun dirilis secara terbuka dan dilaman website dengan alamat &lt;code&gt;yuros.org&lt;/code&gt; ditujukan untuk legitimasi kepemilikan digital atas domain elektronik di mana perkuliahan dilaksanakan.&lt;/p&gt;</description>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Property&lt;/th&gt;&#xA;          &lt;th&gt;Value&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Author&lt;/td&gt;&#xA;          &lt;td&gt;Al Muhdil Karim&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Publish&lt;/td&gt;&#xA;          &lt;td&gt;Jumat, 04 - July - 2025&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Format&lt;/td&gt;&#xA;          &lt;td&gt;Open Report&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Index&lt;/td&gt;&#xA;          &lt;td&gt;Not Indexing&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Access&lt;/td&gt;&#xA;          &lt;td&gt;Terbatas&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;informasi&#34;&gt;Informasi&lt;/h2&gt;&#xA;&lt;p&gt;Penyusunan laporan ini ditujukan sebagai bentuk pertanggungjawaban atas perkuliahan &lt;code&gt;Arsip dan Perpustakaan Digital&lt;/code&gt; pada &lt;code&gt;Angkatan 2023&lt;/code&gt; Jurusan &lt;code&gt;Ilmu Perpustakaan&lt;/code&gt; UIN Syarif Hidayatullah Jakarta. Maksud dari penulis untuk menyusun laporan ini adalah sebagai bahan pertimbangan pimpinan dalam pelaksanaan rapat evaluasi pada hari, &lt;code&gt;Jumat, 4 Juli 2024&lt;/code&gt;. Laporan ini disusun dirilis secara terbuka dan dilaman website dengan alamat &lt;code&gt;yuros.org&lt;/code&gt; ditujukan untuk legitimasi kepemilikan digital atas domain elektronik di mana perkuliahan dilaksanakan.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
